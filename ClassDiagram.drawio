@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T02:29:39.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="LZTIGFs3wQmSX0xz54Z0" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T08:38:47.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="Gtj--0OiFlETrzKQreJq" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="561" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="907" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -33,75 +33,75 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--25" value="初始化障碍物组（名字，物体运动表）&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="190" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-1" value="获取障碍物物体并加入障碍物组（物体，组别）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-1" value="获取障碍物物体并加入障碍物组（物体，组别）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="216" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-2" value="获取所有障碍物并初始化（关卡等级）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-2" value="获取所有障碍物并初始化（关卡等级）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="242" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-4" value="重置障碍物组" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-4" value="重置障碍物组" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="268" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-5" value="获取绝对运动坐标（物体，物体运动表）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-5" value="获取绝对运动坐标（物体，物体运动表）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="294" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-6" value="障碍物移动（数据表，目标位置，速度）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-6" value="障碍物移动（数据表，目标位置，速度）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="320" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-7" value="障碍物组运动（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-7" value="障碍物组运动（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="346" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-8" value="计时器运行（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-8" value="计时器运行（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="372" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-9" value="PropsMgr" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-9" value="PropsMgr" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="600" width="270" height="420" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-10" value="是否运行" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-10" value="是否运行" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-11" value="道具组表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-11" value="道具组表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="52" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-12" value="游戏计时器表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-12" value="游戏计时器表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="78" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-13" value="道具移动类型表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-13" value="道具移动类型表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="104" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-14" value="道具掉落类型表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-14" value="道具掉落类型表" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="130" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="156" width="270" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-16" value="数据初始化" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-16" value="数据初始化" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="164" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-17" value="初始化道具组（名字，物体状态表）&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-17" value="初始化道具组（名字，物体状态表）&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="190" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-18" value="获取道具物体并加入道具组（物体，组别）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-18" value="获取道具物体并加入道具组（物体，组别）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="216" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-19" value="获取所有道具并初始化（关卡等级）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-19" value="获取所有道具并初始化（关卡等级）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="242" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-20" value="重置道具组" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-20" value="重置道具组" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="268" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-21" value="读取道具状态（物体，物体状态）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-21" value="读取道具状态（物体，物体状态）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="294" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-22" value="道具状态切换（数据表，物体状态）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-22" value="道具状态切换（数据表，物体状态）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="320" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-24" value="道具状态检测（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-24" value="道具状态检测（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="346" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-26" value="计时器运行（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bVVhL6jT7Pl-uN5ahRVx-9">
+        <mxCell id="bVVhL6jT7Pl-uN5ahRVx-26" value="计时器运行（每帧时间）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bVVhL6jT7Pl-uN5ahRVx-9" vertex="1">
           <mxGeometry y="372" width="270" height="26" as="geometry" />
         </mxCell>
       </root>
