@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T03:48:28.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kzt0VHZOfTWp51NjB3h0" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T04:18:08.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yrnphRg25pYIwZ2FyoGH" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,79 +39,68 @@
             <mxPoint x="210" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-60" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-61" target="ZSfEejRUCSxW9scSHlyq-63">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-63" target="ZSfEejRUCSxW9scSHlyq-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-61" value="是否认领？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165.5" y="1433" width="130" height="70" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-63" value="PlayerGuide = 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-63" target="ZSfEejRUCSxW9scSHlyq-65">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-65" target="ZSfEejRUCSxW9scSHlyq-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-63" value="PlayerGuide = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="1533" width="120" height="40" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-65" value="Step4:采集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170.5" y="1495" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-65" target="ZSfEejRUCSxW9scSHlyq-67">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-66" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-67" target="ZSfEejRUCSxW9scSHlyq-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-65" value="Step2:采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="1593" width="120" height="50" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-67" value="是否采集成功？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="1630" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-66" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-67" target="ZSfEejRUCSxW9scSHlyq-69">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-69" target="ZSfEejRUCSxW9scSHlyq-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-67" value="是否采集成功？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165.5" y="1662.5" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-69" target="ZSfEejRUCSxW9scSHlyq-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-69" value="PlayerGuide = 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="1753" width="120" height="40" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-69" value="PlayerGuide = 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-71" target="ZSfEejRUCSxW9scSHlyq-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-71" value="Step3:注油" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="1883" width="120" height="40" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-71" value="注油特效光柱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="167" y="1940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-72" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230.5" y="2003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-73" value="是否注油成功？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165.5" y="1943" width="130" height="39.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-75" target="ZSfEejRUCSxW9scSHlyq-77">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-184" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-73" target="ZSfEejRUCSxW9scSHlyq-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-75" value="PlayerGuide = 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="2003.5" width="120" height="40" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-73" value="是否注油成功？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="162" y="2000" width="130" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-75" value="PlayerGuide = 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="167" y="2068" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-77" target="ZSfEejRUCSxW9scSHlyq-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-77" value="Step4:赠送无人机，引导装备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="2063" width="120" height="40" as="geometry" />
+          <mxGeometry x="175" y="2250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-79" target="ZSfEejRUCSxW9scSHlyq-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-79" value="获得无人机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170.5" y="2123" width="120" height="40" as="geometry" />
+          <mxGeometry x="175" y="2310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-81" target="ZSfEejRUCSxW9scSHlyq-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-81" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;手机按钮→无人机按钮→新无人机→装备键依次闪烁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339.5" y="2118" width="141" height="50" as="geometry" />
+          <mxGeometry x="344" y="2305" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-83" target="ZSfEejRUCSxW9scSHlyq-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-83" value="PlayerGuide = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520.5" y="2123" width="120" height="40" as="geometry" />
+          <mxGeometry x="525" y="2310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-84" value="跳转相应步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="155" width="120" height="40" as="geometry" />
@@ -125,24 +114,6 @@
             <mxPoint x="470" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-87" value="无人机开启按键闪烁，引导去中心位置采矿，显示特效光柱（本地），文字提示" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340.5" y="1588" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-65" target="ZSfEejRUCSxW9scSHlyq-87">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300.5" y="1403" as="sourcePoint" />
-            <mxPoint x="350.5" y="1403" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-89" value="个人基地注油地点闪烁特效，显示特效光柱（本地），文字提示" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339.5" y="1873.5" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-90" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-71" target="ZSfEejRUCSxW9scSHlyq-89">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300.5" y="1628" as="sourcePoint" />
-            <mxPoint x="350.5" y="1628" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-91" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-93" target="ZSfEejRUCSxW9scSHlyq-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -150,37 +121,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-93" value="是否拥有个人基地？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165.5" y="1813" width="130" height="50" as="geometry" />
+          <mxGeometry x="162" y="1850" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-95">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550.5" y="1833" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-95" target="ZSfEejRUCSxW9scSHlyq-171">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-95" value="无人占领的基地Cube，显示特效光柱（本地），文字提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339.5" y="1813" width="171" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290.5" y="1903" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="615.5" y="1953" />
-              <mxPoint x="300.5" y="1953" />
-              <mxPoint x="300.5" y="1903" />
-            </Array>
-            <mxPoint x="615.5" y="1858" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-97" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZSfEejRUCSxW9scSHlyq-96">
-          <mxGeometry x="-0.2267" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-98" value="是否拥有个人基地？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550.5" y="1685" width="130" height="50" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-95" value="解锁基地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="379" y="1855" width="121" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-99" value="新手引导结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520.5" y="2193" width="120" height="40" as="geometry" />
+          <mxGeometry x="525" y="2380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-100" value="注：屏UI（所有）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="250" width="110" height="20" as="geometry" />
@@ -251,10 +201,16 @@
         <mxCell id="ZSfEejRUCSxW9scSHlyq-132" value="获得无人机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170.5" y="1170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-133" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;手机按钮→无人机按钮→新无人机→装备键依次闪烁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1370" width="141" height="50" as="geometry" />
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-133" target="ZSfEejRUCSxW9scSHlyq-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-137" value="Step3:装备无人机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-133" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;手机按钮→无人机按钮→新无人机→装备键依次闪烁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1360" width="141" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-137" target="ZSfEejRUCSxW9scSHlyq-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-137" value="Step3:装备无人机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-138" value="在基地你可以xxxx，需先收集燃料" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -298,6 +254,27 @@
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-152" value="Step2-2:领取奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-163" target="ZSfEejRUCSxW9scSHlyq-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-163" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;无人机开启按键闪烁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="172" y="1570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-165" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;注：引导去中心位置采矿（在之前已亮起光柱，若已有则不显示）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1505" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-171" target="ZSfEejRUCSxW9scSHlyq-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-171" value="Step5:注油" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-173" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="1310" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-174" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;可跳&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
