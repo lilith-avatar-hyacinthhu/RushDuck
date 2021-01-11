@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T04:18:08.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yrnphRg25pYIwZ2FyoGH" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T06:28:36.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="w4PLhDXEh_chEPBI01Xs" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -78,30 +78,6 @@
         <mxCell id="ZSfEejRUCSxW9scSHlyq-75" value="PlayerGuide = 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167" y="2068" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-77" target="ZSfEejRUCSxW9scSHlyq-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-77" value="Step4:赠送无人机，引导装备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="2250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-79" target="ZSfEejRUCSxW9scSHlyq-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-79" value="获得无人机*1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="2310" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-81" target="ZSfEejRUCSxW9scSHlyq-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-81" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;手机按钮→无人机按钮→新无人机→装备键依次闪烁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344" y="2305" width="141" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-83" target="ZSfEejRUCSxW9scSHlyq-99">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-83" value="PlayerGuide = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525" y="2310" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-84" value="跳转相应步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="155" width="120" height="40" as="geometry" />
         </mxCell>
@@ -129,11 +105,8 @@
         <mxCell id="ZSfEejRUCSxW9scSHlyq-95" value="解锁基地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="1855" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-99" value="新手引导结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525" y="2380" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-100" value="注：屏UI（所有）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="250" width="110" height="20" as="geometry" />
+          <mxGeometry x="450" y="290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-104" target="ZSfEejRUCSxW9scSHlyq-141">
           <mxGeometry relative="1" as="geometry" />
@@ -217,7 +190,7 @@
           <mxGeometry x="340" y="721" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-139" value="注：屏UI（所有）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="741" width="110" height="20" as="geometry" />
+          <mxGeometry x="450" y="781" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-140" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-117" target="ZSfEejRUCSxW9scSHlyq-138">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -261,7 +234,7 @@
         <mxCell id="ZSfEejRUCSxW9scSHlyq-163" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;无人机开启按键闪烁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="172" y="1570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSfEejRUCSxW9scSHlyq-165" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;注：引导去中心位置采矿（在之前已亮起光柱，若已有则不显示）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-165" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;注：引导去中心位置采矿&lt;br&gt;（在之前已亮起光柱，若已有则不显示）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1505" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-171" target="ZSfEejRUCSxW9scSHlyq-93">
@@ -275,6 +248,57 @@
         </mxCell>
         <mxCell id="ZSfEejRUCSxW9scSHlyq-174" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;可跳&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="1515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-188" target="ZSfEejRUCSxW9scSHlyq-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-188" value="Step6-1:介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="65" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-189" value="当你燃料足够时，可以发射火箭进入太空了" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="60" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-190" value="注：屏UI（所有）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-191" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-188" target="ZSfEejRUCSxW9scSHlyq-189">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-321" as="sourcePoint" />
+            <mxPoint x="890" y="-321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-193" target="ZSfEejRUCSxW9scSHlyq-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-193" value="点击关闭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="129" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-195" target="ZSfEejRUCSxW9scSHlyq-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-195" value="PlayerGuide = 6-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="189" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-196" target="ZSfEejRUCSxW9scSHlyq-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-196" value="Step6-2:介绍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="249" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-197" target="ZSfEejRUCSxW9scSHlyq-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-197" value="弹出七日签到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZSfEejRUCSxW9scSHlyq-199" target="ZSfEejRUCSxW9scSHlyq-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-199" value="PlayerGuide = 6-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="393.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSfEejRUCSxW9scSHlyq-203" value="第一部分结束，玩家将继续直到发射火箭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
